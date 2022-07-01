@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Agency/static/css/main.5941e579.css",
+    "main.js": "/Agency/static/js/main.f3c31860.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Agency/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Abstract.png": "/Agency/static/media/Abstract.158b5350be97182747f8.png",
+    "static/media/Architect.png": "/Agency/static/media/Architect.dcab3c3bf21a69d0f899.png",
+    "static/media/SOFA.png": "/Agency/static/media/SOFA.6555f413fc5887fce33c.png",
+    "static/media/Sport.png": "/Agency/static/media/Sport.0e0f47dcc957a74ced75.png",
+    "static/media/DDDone.png": "/Agency/static/media/DDDone.2568abcdf01a87504035.png",
+    "static/media/HandP.png": "/Agency/static/media/HandP.491bd6ee17cc1fb4d6c2.png",
+    "static/media/Keyboard.png": "/Agency/static/media/Keyboard.5bfca83d4e750d9df57c.png",
+    "static/media/Work Media.png": "/Agency/static/media/Work Media.653c510ee1c34e99e7cd.png",
+    "static/media/Calc.png": "/Agency/static/media/Calc.afd739b49fa660e7b434.png",
+    "index.html": "/Agency/index.html",
+    "main.5941e579.css.map": "/Agency/static/css/main.5941e579.css.map",
+    "main.f3c31860.js.map": "/Agency/static/js/main.f3c31860.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Agency/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5941e579.css",
+    "static/js/main.f3c31860.js"
+  ]
+}
